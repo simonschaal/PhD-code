@@ -1,5 +1,5 @@
 # PhD-code
-contains useful pieces of code related to my PhD in nano-electronic measurements
+contains useful pieces of code related to nano-electronic measurements
 
 ## Resonant circuit simulations
 `RFCircuit` is a class that facilitates analytical and numerical analysis of resonant circuits using `lcapy`, `sympy` and `numpy` packages.
